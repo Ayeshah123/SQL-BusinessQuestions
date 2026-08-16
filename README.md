@@ -65,5 +65,10 @@ The purpose of this project is to solve real-world business questions using SQL 
 
 ---
 
-## Author
-**Ayesha Batool**
+## 👩‍💻 Author
+Ayesha Batool
+
+# 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ayesha-analyst/)
+- [Email](mailto:ayesha.batool.career@gmail.com)
